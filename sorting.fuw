@@ -1,0 +1,5 @@
+.*\.(jpg|jpeg|png|bmp)$,<name><ext>,E:\00work\000000,E:\00work\000000\<now:%Y%m>
+.*\.exe$,<name><ext>,E:\00work\000000,E:\00work\000000\<stamp:%Y%m>
+.*\.opml$,test<name><ext>,E:\00work\000000,E:\00work\000000\<stamp:%Y%m>
+.*\.txt$,<name><ext>,E:\00work\000000,E:\00work\000000\<stamp:%Y%m>
+.*\.arn$,<name><ext>,E:\00work\000000,E:\00work\000000\test
